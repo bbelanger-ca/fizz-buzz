@@ -2,6 +2,8 @@
 FizzBuzz as a Service, Demonstrating use of a design pattern.  Chain of Responsibility is
 used.
 
+Design Pattern Chain of Responsibility is used because at it's core FizzBuzz is a conditional logic puzzle. Chain of Responsibility is mainly designed to solve conditional logic where the logic goes from detailed to more general. FizzBuzz isn't an amazing usecase for it. 
+
 Implemented using [Spring Boot](https://projects.spring.io/spring-boot/)
 
 ### EndPoint /fizzbuzz/{number}
